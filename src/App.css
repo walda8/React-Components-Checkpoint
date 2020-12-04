@@ -1,0 +1,19 @@
+.me {
+  display: block;
+  margin-top: 50px;
+  margin-left: auto ;
+  margin-right: auto;
+}
+.myName {
+  color: blue;
+  font-size: 45px;
+  text-align: center;
+  font-weight: 500;
+}
+.myaddress {
+  color: black;
+  font-size: 35px;
+  margin-top: 50px;
+  text-align: center;
+  font-weight: 700;
+}
