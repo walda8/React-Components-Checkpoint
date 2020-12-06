@@ -5,9 +5,11 @@ let fullName= {
     lastName: 'khelil'
 }
     return (
+  <>
     <p className="myName">
     {`My name is ${fullName.name} ${fullName.lastName}`}
     </p>
+  </>
     );
 }
 
